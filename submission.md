@@ -1,6 +1,7 @@
 ## 🔗 PDF Files
 
-Files                              |Link
------------------------------------|--------------------------------------------
-Technical & Tools Declaration      |https://github.com/jennaaa07/CJSTY.exe.git
-Preliminary Project Proposal       |https://replit.com/@tanjieyu529/CJSTYexe-1
+Technical & Tools Declaration      
+https://drive.google.com/file/d/1Vk783IYZZ7qRjGMv4kKLUlo5TSxKg-5X/view?usp=drivesdk 
+
+Preliminary Project Proposal       
+https://drive.google.com/file/d/1GKzQK_sfbYHho3KfeVqoUQfpYPD9ENk7/view?usp=drivesdk
