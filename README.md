@@ -128,13 +128,13 @@ BloomPath aims to support informed career development and lifelong learning, wit
 
 ## 👩‍💻 Project Information
 
-**Team:** CJSTY.exe 
-**Team Domain:** Domain 1
-**Project:** BloomPath  
-**Team Leader:** Tan Jie Yu
-**University:** Asia Pacific University of Technology & Innovation
-**Number of Members:** 5
-**Event:** SDC Hackathon 2026  
+**Team:** CJSTY.exe <br>
+**Team Domain:** Domain 1 <br>
+**Project:** BloomPath  <br>
+**Team Leader:** Tan Jie Yu <br>
+**University:** Asia Pacific University of Technology & Innovation <br>
+**Number of Members:** 5 <br>
+**Event:** SDC Hackathon 2026 <br>
 **Status:** Hackathon prototype
 
 ## 🔗 Links
