@@ -144,7 +144,7 @@ Resource              |Link
 GitHub Repository     |https://github.com/jennaaa07/CJSTY.exe.git
 Replit Project        |https://replit.com/@tanjieyu529/CJSTYexe-1
 Live Demo             |https://cjsty-exe.vercel.app  
-Demo Video            |
+Demo Video            |https://drive.google.com/file/d/1juhWmUFuWuKZNTonuZstRfLyT3J8stfv/view?usp=sharing
 
 ---
 
